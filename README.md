@@ -23,6 +23,20 @@ The goal of this project is to analyze user behavior across different funnel sta
 #### EDA
 
 ![](Images/Screenshot-2026-05-09-155414.png)
+![](Images/Screenshot-2026-05-09-155549.png)
+![](Images/Screenshot-2026-05-09-155902.png)
+![](Images/Screenshot-2026-05-09-155959.png)
+![](Images/Screenshot-2026-05-09-160124.png)
+![](Images/Screenshot-2026-05-09-160306.png)
+![](Images/Screenshot-2026-05-09-160504.png)
+
+![](Images/Screenshot-2026-05-09-155414.png)
+![](Images/Screenshot-2026-05-09-155549.png)
+![](Images/Screenshot-2026-05-09-155902.png)
+![](Images/Screenshot-2026-05-09-155959.png)
+![](Images/Screenshot-2026-05-09-160124.png)
+![](Images/Screenshot-2026-05-09-160306.png)
+![](Images/Screenshot-2026-05-09-160504.png)
 
 ## 🔍 Recommendations
 
