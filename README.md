@@ -20,7 +20,7 @@ The goal of this project is to analyze user behavior across different funnel sta
 5. Create new columns (Date , Time , Total Sessions Per User, Purchase Counts Per User,Time Segments)
 
 
-#### Analysis and Visualization
+#### EDA
 
   
 ![Purchase vs Non-Purchase](Charts/PurchasevsNon-PurchaseSessions.png)
