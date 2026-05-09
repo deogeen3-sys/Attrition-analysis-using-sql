@@ -23,20 +23,41 @@ The goal of this project is to analyze user behavior across different funnel sta
 #### EDA
 
 ![](Images/Screenshot-2026-05-09-155414.png)
+
 ![](Images/Screenshot-2026-05-09-155549.png)
+
 ![](Images/Screenshot-2026-05-09-155902.png)
+
 ![](Images/Screenshot-2026-05-09-155959.png)
+
 ![](Images/Screenshot-2026-05-09-160124.png)
+
 ![](Images/Screenshot-2026-05-09-160306.png)
+
 ![](Images/Screenshot-2026-05-09-160504.png)
 
-![](Images/Screenshot-2026-05-09-155414.png)
-![](Images/Screenshot-2026-05-09-155549.png)
-![](Images/Screenshot-2026-05-09-155902.png)
-![](Images/Screenshot-2026-05-09-155959.png)
-![](Images/Screenshot-2026-05-09-160124.png)
-![](Images/Screenshot-2026-05-09-160306.png)
-![](Images/Screenshot-2026-05-09-160504.png)
+![](Images/Screenshot-2026-05-09-160618.png)
+
+![](Images/Screenshot-2026-05-09-160700.png)
+
+![](Images/Screenshot-2026-05-09-161943.png)
+
+![](Images/Screenshot-2026-05-09-162016.png)
+
+![](Images/Screenshot-2026-05-09-162055.png)
+
+![](Images/Screenshot-2026-05-09-162147.png)
+
+![](Images/Screenshot-2026-05-09-162219.png)
+
+![](Images/Screenshot-2026-05-09-162323.png)
+
+![](Images/Screenshot-2026-05-09-162420.png)
+
+![](Images/Screenshot-2026-05-09-163011.png)
+
+![](Images/Screenshot-2026-05-09-163130.png)
+
 
 ## 🔍 Recommendations
 
