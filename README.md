@@ -61,4 +61,10 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 ## 📝 Summary
 
-
+1. Attrition Rate is **16.8%**
+2. Average Years at Company is **6.5**
+3. Total Number of Employees is **1470**
+4. Average Job Satisfaction is **2.7**
+5. The highest attrition rate comes from **Sales Representatives**
+6. The highest attrition rate comes from **younger age groups**
+7. Stock options reduce the attrition rate
