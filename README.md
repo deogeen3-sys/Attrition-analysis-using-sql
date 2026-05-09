@@ -61,6 +61,4 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 ## 📝 Summary
 
-1. Competitor price analysis in the market  
-2. A/B testing for the “Add to Cart” button  
-3. Reviewing product images and descriptions for optimization  
+
