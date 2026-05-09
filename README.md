@@ -22,8 +22,7 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 #### EDA
 
-  
-![Purchase vs Non-Purchase](Charts/PurchasevsNon-PurchaseSessions.png)
+Images/Screenshot 2026-05-09 155414.png
 
 
 ## 🔍 Recommendations
