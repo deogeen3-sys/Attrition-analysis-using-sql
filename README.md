@@ -22,14 +22,7 @@ The goal of this project is to analyze user behavior across different funnel sta
 
 #### EDA
 
-(Images/Screenshot 2026-05-09 155414.png)
-![Attrition Chart](Images/Screenshot 2026-05-09 155414.png)
-## 📊 Attrition Analysis Result
-
-![Attrition Chart](images/attrition_chart.png)
-Screenshot 2026-05-09 155414.png
-
-![Attrition Analysis](Images/Screenshot 2026-05-09 155414.png)
+![](Images/Screenshot-2026-05-09-155414.png)
 
 ## 🔍 Recommendations
 
