@@ -1,14 +1,14 @@
 # Attrition-analysis-using-sql
 
 ## 📌 Overview
-This project performs **Funnel Analysis** on user journey data to understand how users move through different stages of an e-commerce or product flow.  
-The analysis is implemented using **Python (Pandas, Matplotlib, Plotly, Seaborn,plotly)** inside a Jupyter Notebook.
-
+This project analyzes employee attrition using SQL to uncover key patterns behind why employees leave an organization. The goal is to help HR teams make data-driven decisions to improve employee retention.
 
 ## 🎯 Problem Statement
-The goal of this project is to analyze user behavior across different funnel stages:
-
-- Homepage → Product Page → Cart → Checkout → Purchase
+- Analyze employee attrition rate
+- Identify factors affecting employee turnover
+- Compare attrition across departments, job roles, and demographics
+- Extract actionable insights using SQL queries
+- Support HR decision-making with data
 
 ## 🧠 Project Structure 
 #### Cleaning and Transform data 
